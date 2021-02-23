@@ -30,6 +30,8 @@ For this project, I was the lead programmer who was responsible for programming 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Capturar2.JPG">
   <img class="ui image" src="../images/Capturar3.JPG">
+  <img class="ui image" src="../images/Capturar4.JPG">
+
 </div>
 
 
@@ -38,9 +40,6 @@ I started by programming the basics, such as sensor polling and motor actuation 
 
 
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/Capturar4.JPG">
-</div>
 
 
 You can learn more about Leadr [here](https://www.leadr.com.br/).
