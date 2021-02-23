@@ -17,7 +17,7 @@ summary: My team developed a cloud-based sub-theme classification system for twe
 ---
 *Leadr Tweet Classifier* is a set of software components that handle the acquisition, processing, managing and storage of tweet data. 
 
-<img class="ui medium right floated rounded image" src="/images/2018_02_Classificador Leadr/Arquitetura microservices.jpg">
+<img class="ui medium right floated rounded image" src="../images/2018_02_Classificador Leadr/Arquitetura microservices.jpg">
 
 
 
@@ -28,8 +28,8 @@ For this project, I was the lead programmer who was responsible for programming 
 
 *ADM tool* executes scripts responsible for definitions in the Classifier through a web interface. This makes the process accessible to users unfamiliar with the command line interface.
 <div class="ui small rounded images">
-  <img class="ui image" src="/images/2018_02_Classificador Leadr/Capturar2.JPG">
-  <img class="ui image" src="/images/2018_02_Classificador Leadr/Capturar3.JPG">
+  <img class="ui image" src="../images/2018_02_Classificador Leadr/Capturar2.JPG">
+  <img class="ui image" src="../images/2018_02_Classificador Leadr/Capturar3.JPG">
 </div>
 
 
@@ -39,7 +39,7 @@ I started by programming the basics, such as sensor polling and motor actuation 
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="/images/2018_02_Classificador Leadr/Capturar4.JPG">
+  <img class="ui image" src="../images/2018_02_Classificador Leadr/Capturar4.JPG">
 </div>
 
 
