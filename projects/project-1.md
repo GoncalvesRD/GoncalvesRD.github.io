@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/2018_02_Classificador Leadr/capa.png
 title: Leadr Tweet Classifier
-permalink: projects/tweetclassifier
+permalink: projects/tclassifier
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-01
 labels:
