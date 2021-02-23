@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Rafael Bernardelli",
+    "label": "Electronics Engineer, MSc student in Electronics Engineer at UTFPR",
+    "picture": "https://rbernardelli.github.io/images/IMG_3110_sqare.png",
+    "email": "rafael.bernardelli@gmail.com",
+    "phone": "",
+    "website": "https://rbernardelli.github.io",
+    "summary": "I am a soon-to-be MSc in Electronics Engineer at UTFPR, and I have a solid background on programming and Mathematics.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Curitiba",
+      "countryCode": "BRA",
+      "region": "Paraná"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "rbernardelli",
+        "url": "http://github.com/rbernardelli"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://linkedin.com/in/rbernardelli/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "research",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "data science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "modern software development technologies",
       "keywords": [
       ]
     }
