@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "images/2018_02_Classificador Leadr/capa.png"
+image: images/capa.png
 title: Leadr Tweet Classifier
 permalink: projects/tclassifier
 # All dates must be YYYY-MM-DD format!
