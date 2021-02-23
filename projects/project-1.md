@@ -38,9 +38,6 @@ I started by programming the basics, such as sensor polling and motor actuation 
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/2018_02_Classificador Leadr/Capturar.jpg">
-  <img class="ui image" src="../images/2018_02_Classificador Leadr/Capturar2.JPG">
-  <img class="ui image" src="../images/2018_02_Classificador Leadr/Capturar3.JPG">
   <img class="ui image" src="../images/2018_02_Classificador Leadr/Capturar4.JPG">
 </div>
 
