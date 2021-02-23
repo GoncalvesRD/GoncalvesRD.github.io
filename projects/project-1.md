@@ -15,6 +15,7 @@ labels:
   - Twitter API
 summary: My team developed a cloud-based sub-theme classification system for tweet stream.
 ---
+
 *Leadr Tweet Classifier* is a set of software components that handle the acquisition, processing, managing and storage of tweet data. 
 
 <img class="ui medium right floated rounded image" src="../images/Arquitetura microservices.jpg">
