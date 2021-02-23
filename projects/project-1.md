@@ -31,7 +31,6 @@ For this project, I was the lead programmer who was responsible for programming 
   <img class="ui image" src="../images/Capturar2.JPG">
   <img class="ui image" src="../images/Capturar3.JPG">
   <img class="ui image" src="../images/Capturar4.JPG">
-
 </div>
 
 
