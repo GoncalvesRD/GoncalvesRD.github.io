@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/2018_02_Classificador Leadr/capa.png
+image: "images/2018_02_Classificador Leadr/capa.png"
 title: Leadr Tweet Classifier
 permalink: projects/tclassifier
 # All dates must be YYYY-MM-DD format!
-date: 2018
+date: 2018-01-01
 labels:
   - NLP
   - Machine Learning
