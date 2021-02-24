@@ -24,8 +24,8 @@ This project is a development of the [*Leadr Tweet Classifier*](https://goncalve
 
 <br/>
 <img class="ui huge image rounded image" src="../images/2018_08_Tweets_em_Rede/Capturar1.JPG">
-<img class="ui large image centered rounded image" src="../images/2018_08_Tweets_em_Rede/Capturar5.JPG">
-<img class="ui large image centered rounded image" src="../images/2018_08_Tweets_em_Rede/Capturar4.JPG">
+<img class="ui centered large image centered rounded image" src="../images/2018_08_Tweets_em_Rede/Capturar5.JPG">
+<img class="ui centered large image rounded image" src="../images/2018_08_Tweets_em_Rede/Capturar4.JPG">
 
 <br/>
 Private code.
