@@ -13,7 +13,7 @@ labels:
   - Kubernetes
   - MongoDB
   - Twitter API
-summary: My team developed a cloud-based sub-theme classification system for tweet stream.
+summary: *Industry* <br/> My team developed a cloud-based sub-theme classification system for tweet stream.
 ---
 <br/>
 *Leadr Tweet Classifier* is a set of software components that handle the acquisition, processing, managing and storage of tweet data. 
