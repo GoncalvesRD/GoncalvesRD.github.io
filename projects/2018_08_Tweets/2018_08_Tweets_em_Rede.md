@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/2018_08_Tweets_em_Rede/Capturar3.JPG
-title: Network tweets
+title: Network Tweets
 permalink: projects/networkt
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-12
