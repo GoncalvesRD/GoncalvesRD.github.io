@@ -17,7 +17,7 @@
   position: relative;
   display: inline-block;
   vertical-align: middle;
-  max-width: 100%;
+  max-width: 200%;
   background-color: transparent;
 }
 img.ui.image {
@@ -26,7 +26,7 @@ img.ui.image {
 .ui.image svg,
 .ui.image img {
   display: block;
-  max-width: 100%;
+  max-width: 200%;
   height: auto;
 }
 
