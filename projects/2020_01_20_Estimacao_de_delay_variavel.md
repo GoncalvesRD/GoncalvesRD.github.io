@@ -15,6 +15,6 @@ summary: Statistical modeling proposal for variable time-delay estimation.
 
 Variable time-delay estimation
 
-Estimator proposal with moving window<br/>
+Estimator proposal with sliding window<br/>
 
 <img class="ui medium image rounded image" src="../images/2020_01_20_Estimacao_de_delay_variavel/Capturar2.JPG">
