@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/2020_07_Escoamentos_Bifasicos/capturar.JPG
-title: Leadr Network Vis
-permalink: projects/networkvis
+title: GPU-accelerated light transport simulator
+permalink: projects/otgpu
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-15
 labels:
