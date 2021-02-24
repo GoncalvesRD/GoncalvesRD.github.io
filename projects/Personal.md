@@ -5,7 +5,7 @@ image: images/personal/personal1.jpg
 title: Personal!
 permalink: projects/personal
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-01
+date: 2015-01-01
 labels:
   - Linux
   - Food
