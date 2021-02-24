@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2018_10_17_redes_neurais_escoamento_vertical/Capturar.jpg
+image: images/2018_10_17_redes_neurais_escoamento_vertical/Capturar.JPG
 title: NN to identify parameters of a vertical flow
 permalink: projects/nnverticalflow
 # All dates must be YYYY-MM-DD format!
