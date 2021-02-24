@@ -12,11 +12,11 @@ labels:
   - JavaScript
   - D3.js
   - Python
-summary:  Interactive Network Visualization Javascript network graph visualization.
+summary: Web application for interactive network visualization.
 ---
 <br/>
 <img class="ui large right floated rounded image" src="../images/2018_06_Rede_Leadr_Vis/Capturar.JPG">
-*Leadr Network Vis* is a web application with interactive visualization and social network analysis metrics of connection data between the Leadr Network users. It made possible to understand the distribution of users, identify the formation of clusters, and explore the patterns of relationship between users.
+*Leadr Network Vis* is a web application for interactive visualization and social network analysis metrics of connection data between the Leadr Network users. It made possible to understand the distribution of users, identify the formation of clusters, and explore the patterns of relationship between users.
 
 <br/>
 <br/>
