@@ -42,7 +42,7 @@ For this project, I was the lead programmer who was responsible for programming 
 <br/>
 <br/>
 <br/>
-You can learn more about Leadr [here](https://www.leadr.com.br/).
+Learn more about Leadr [here](https://www.leadr.com.br/).
 <br/>
 <br/>
 <br/>
