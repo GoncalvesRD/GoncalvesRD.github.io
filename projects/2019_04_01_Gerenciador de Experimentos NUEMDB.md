@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2019_04_01_Gerenciador_de_Experimentos_NUEMDB/webui.png
+image: images/2019_04_01_Gerenciador_de_Experimentos_NUEMDB/webui_sqare.png
 title: NUEMBD
 permalink: projects/nuembd
 # All dates must be YYYY-MM-DD format!
