@@ -24,7 +24,7 @@ For this project, I was the lead programmer who was responsible for programming 
 
 *ADM tool* executes scripts responsible for definitions in the Classifier through a web interface. This makes the process accessible to users unfamiliar with the command line interface.
 
-<div class="ui big right floated rounded image">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/2018_02_Classificador_Leadr/Capturar2.JPG">
   <img class="ui image" src="../images/2018_02_Classificador_Leadr/Capturar3.JPG">
   <img class="ui image" src="../images/2018_02_Classificador_Leadr/Capturar4.JPG">
@@ -32,10 +32,10 @@ For this project, I was the lead programmer who was responsible for programming 
 
 
 You can learn more about Leadr [here](https://www.leadr.com.br/).
-<br>
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
