@@ -18,7 +18,7 @@ summary:  Interactive Network Visualization Javascript network graph visualizati
 *Leadr Network Vis* is a web application with interactive visualization and social network analysis metrics of connection data between the Leadr Network users. It made possible to understand the distribution of users, identify the formation of clusters, and explore the patterns of relationship between users.
 
 
-<img class="ui large image" src="../images/2018_06_Rede_Leadr_Vis/Capturar.jpg">
+<img class="ui medium rounded image"../images/2018_06_Rede_Leadr_Vis/Capturar.jpg">
 <br/><br/>
 In this project I was the lead data scientist, responsible for the network data preparation, including MongoDB for database storage and the SNA metrics implementation. 
 <img class="ui medium right floated rounded image" src="../images/2018_06_Rede_Leadr_Vis/Capturar4.jpg">
@@ -26,7 +26,7 @@ In this project I was the lead data scientist, responsible for the network data 
 
 I also gained experience with full-stack web application design and associated technologies. Optimizing canvas, D3.js the Javascript for the canva ren, and the CSS Framework for the user interface
 
-<img class="ui large image" src="../images/2018_06_Rede_Leadr_Vis/Capturar2.jpg">
+<img class="ui large image rounded image" src="../images/2018_06_Rede_Leadr_Vis/Capturar2.jpg">
 
 
  
