@@ -23,7 +23,7 @@ This project aims to create a standard storage structure suitable for any kind o
 
 My proposal is to develop a server capable of managing these records, in order to enable programmatic and manual search and insertion. This project is being developed with the following tools:
 
-**Metadata example:**
+**Metadata example:**<br/>
 <img class="ui huge image rounded image" src="../images/2019_04_01_Gerenciador_de_Experimentos_NUEMDB/Capturar2.JPG">
 <img class="ui huge image rounded image" src="../images/2019_04_01_Gerenciador_de_Experimentos_NUEMDB/Capturar3.JPG">
 <br/>
