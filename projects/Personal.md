@@ -12,7 +12,7 @@ labels:
   - Music and podcasts
   - RuPaul's Drag Race
   - Travelling
-summary: A little summary of my spare time fun.
+summary: A summary of my free-time activities.
 ---
 
 
