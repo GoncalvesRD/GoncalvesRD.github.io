@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2020_07_Escoamentos_Bifasicos/Capturar.jpg
+image: images/2020_07_Escoamentos_Bifasicos/capturar.JPG
 title: Leadr Network Vis
 permalink: projects/networkvis
 # All dates must be YYYY-MM-DD format!
@@ -27,7 +27,7 @@ The development of a reliable reconstruction for OT might spread the use of this
 Furthermore, data fusion might allow for next-generation nonintrusive process tomography if OT is to be used in tandem with other non-intrusive industrial tomographic modalities such as electrical or ultrasound tomography systems
 Picture of OT system used for measurements:
 <br/>
-<img class="ui huge image rounded image" src="../images/2020_07_Escoamentos_Bifasicos/Capturar2.jpg">
+<img class="ui huge image rounded image" src="../images/2020_07_Escoamentos_Bifasicos/Capturar2.JPG">
 
 <br/><br/>
 <br/><br/>
