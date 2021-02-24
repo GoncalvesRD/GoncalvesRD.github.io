@@ -20,8 +20,8 @@ In my spare time I’m a Linux nerd :penguin: … take care of plants … bike �
 
 and love to …. cook (always happy when discover some new food)
 
-<img class="ui huge image rounded image" src="../images/personal/IMG_0780.jpg">
-
+<img class="ui medium image rounded image" src="../images/personal/IMG_0780.jpg">
+*An amazing shrimp salad in Salvador, Bahia*
 
 These are some of my favorite songs and podcasts:
 Maria Bethania - 
