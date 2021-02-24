@@ -23,8 +23,8 @@ summary: Web application for interactive network visualization.
 In this project I was the lead data scientist, responsible for the network data preparation, including MongoDB for database storage and the SNA metrics implementation. 
 <br/>
 <br/>
-I also gained experience with full-stack web application design and associated technologies. 
-Optimizing canvas, D3.js the Javascript for the canva ren, and the CSS Framework for the user interface
+...I also gained experience with full-stack web application design and associated technologies. 
+Optimizing canvas, D3.js the Javascript for the canva rendering to deal with a large quantity of nodes (users) of the social network.
 
 <img class="ui huge image rounded image" src="../images/2018_06_Rede_Leadr_Vis/Capturar2.JPG">
 
