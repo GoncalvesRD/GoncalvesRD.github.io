@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/2019_04_01_Gerenciador_de_Experimentos_NUEMDB/webui_sqare.png
-title: NUEMBD
-permalink: projects/nuembd
+title: NUEMDB
+permalink: projects/nuemdb
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-01
 labels:
