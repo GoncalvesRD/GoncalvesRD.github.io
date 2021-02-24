@@ -23,7 +23,7 @@ take care of plants … bike …twitter ... Rupaul’s drag race (my favorite qu
 <br/>
 and love to …. cook (always happy when discover some new food)
 
-<img class="ui medium right floated rounded image" src=../images/personal/IMG_0780.jpg">
+<img class="ui medium right floated rounded image" src="../images/personal/IMG_0780.jpg">
 *An amazing shrimp salad in Salvador, Bahia*
 
 <br/>
