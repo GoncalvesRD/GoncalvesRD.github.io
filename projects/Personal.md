@@ -27,11 +27,11 @@ and love to …. cook (always happy when discover some new food)
 <br/>
 These are some of my favorite songs and podcasts:<br/>
 Maria Bethania - <br/>
-Metá Metá -<br/>
-Elza Soares -<br/>
-Ney Matogrosso -<br/>
+Metá Metá - <br/>
+Elza Soares - <br/>
+Ney Matogrosso - <br/>
 Azelia Banks - <br/>
-<font size="1">*(I also like some funk proibidão to keep the power up)*</font>
+*<font size="0.6">(I also like some funk proibidão to keep the power up)</font>*
 <br/>
 Expresso Ilustrada<br/>
 Foro de Teresina<br/>
