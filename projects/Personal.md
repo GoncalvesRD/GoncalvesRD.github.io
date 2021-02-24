@@ -16,11 +16,14 @@ summary: A little summary of my spare time fun.
 ---
 
 
-In my spare time I’m a Linux nerd :penguin: … take care of plants … bike …twitter ... Rupaul’s drag race (my favorite queen is:   )
+In my spare time I’m a Linux nerd 🐧 … 
+<br/>
+take care of plants … bike …twitter ... Rupaul’s drag race (my favorite queen is:   )
+<br/>
 <br/>
 and love to …. cook (always happy when discover some new food)
 
-<img class="ui medium image rounded image" src="../images/personal/IMG_0780.jpg">
+<img class="ui medium right floated rounded image" src=../images/personal/IMG_0780.jpg">
 *An amazing shrimp salad in Salvador, Bahia*
 
 <br/>
@@ -31,7 +34,7 @@ Metá Metá - <br/>
 Elza Soares - <br/>
 Ney Matogrosso - <br/>
 Azelia Banks - <br/>
-*<font size="0.6">(I also like some funk proibidão to keep the power up)</font>*
+<font size="0.6">*(I also like some funk proibidão to keep the power up)*</font>
 <br/>
 Expresso Ilustrada<br/>
 Foro de Teresina<br/>
