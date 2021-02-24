@@ -18,7 +18,7 @@ summary: My team developed a cloud-based sub-theme classification system for twe
 <br/>
 *Leadr Tweet Classifier* is a set of software components that handle the acquisition, processing, managing and storage of tweet data. 
 
-<img class="ui massive image" src="../images/2018_02_Classificador_Leadr/Arquitetura microservices.svg">
+<img class="ui huge image" src="../images/2018_02_Classificador_Leadr/Arquitetura microservices.svg">
 <br/>
 For this project, I was the lead programmer who was responsible for programming the various ...
 
