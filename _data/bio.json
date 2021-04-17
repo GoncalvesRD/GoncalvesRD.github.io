@@ -1,50 +1,50 @@
 {
   "basics": {
-    "name": "Rafael Bernardelli",
-    "label": "Electronics Engineer, Research Student",
+    "name": "Ricardo Gonçalves",
+    "label": "Data Analyst",
     "picture": "https://goncalvesrd.github.io/images/IMG_3110_sqare.jpg",
-    "email": "rafael.bernardelli@gmail.com",
+    "email": "goncalves.r@pm.com",
     "phone": "",
-    "website": "https://rbernardelli.github.io",
-    "summary": "I am a soon-to-be MEng in Computer Engineering at CPGEI/UTFPR, and I have a solid background on programming and Mathematics.",
+    "website": "https://GoncalvesRD.github.io",
+    "summary": "I am a soon-to-be PhD in Political Science at UFPR, and I have a highly developed research and analytical skills with a strong capacity to lead mix methods research team.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Curitiba",
+      "city": "Rio de Janeiro",
       "countryCode": "BRA",
-      "region": "Paraná"
+      "region": "RJ"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "rbernardelli",
-        "url": "http://github.com/rbernardelli"
+        "username": "GoncalvesRD",
+        "url": "http://github.com/GoncalvesRD"
       },
       {
         "network": "linkedin",
-        "username": "rbernardelli",
-        "url": "http://linkedin.com/in/rbernardelli/"
+        "username": "goncalvesRD",
+        "url": "www.linkedin.com/in/1goncalvesRD"
       }
     ]
   },
   "interests": [
     {
-      "name": "research",
+      "name": "data analysis",
       "keywords": [
       ]
     },
     {
-      "name": "data science",
+      "name": "data visualization",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "spatial analysis",
       "keywords": [
       ]
     },
     {
-      "name": "modern software development technologies",
+      "name": "mix methods research team",
       "keywords": [
       ]
     }
